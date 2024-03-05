@@ -1,0 +1,12 @@
+{
+  "name": "quote-generator-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"tailwindcss -i ./src/styles.css -o ./src/output.css --watch"
+  },
+  "author": "Morgan Uuuh!",
+  "license": "ISC"
+}
